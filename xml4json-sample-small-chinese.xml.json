@@ -1,0 +1,1129 @@
+{
+   "xml": {
+      "records": [
+         {
+            "record": [
+               {
+                  "database": [
+                     {
+                        "_": "Hugh's Linguistics Lib for ical 11 updated.enl",
+                        "$": {
+                           "name": "Hugh's Linguistics Lib for ical 11 updated.enl",
+                           "path": "/Users/Hugh/Hugh's Linguistics Lib for ical 11 updated.enl"
+                        }
+                     }
+                  ],
+                  "source-app": [
+                     {
+                        "_": "EndNote",
+                        "$": {
+                           "name": "EndNote",
+                           "version": "18.2"
+                        }
+                     }
+                  ],
+                  "rec-number": [
+                     "7732"
+                  ],
+                  "foreign-keys": [
+                     {
+                        "key": [
+                           {
+                              "_": "7732",
+                              "$": {
+                                 "app": "EN",
+                                 "db-id": "r2tarz0emwrxt2efrz2pxre8ffvvxeexxas0"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "ref-type": [
+                     {
+                        "_": "17",
+                        "$": {
+                           "name": "Journal Article"
+                        }
+                     }
+                  ],
+                  "contributors": [
+                     {
+                        "authors": [
+                           {
+                              "author": [
+                                 {
+                                    "style": [
+                                       {
+                                          "_": "Ahmed, Pervez",
+                                          "$": {
+                                             "face": "normal",
+                                             "font": "default",
+                                             "size": "100%"
+                                          }
+                                       }
+                                    ]
+                                 },
+                                 {
+                                    "style": [
+                                       {
+                                          "_": "Al-Ohali, Yousef",
+                                          "$": {
+                                             "face": "normal",
+                                             "font": "default",
+                                             "size": "100%"
+                                          }
+                                       }
+                                    ]
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "titles": [
+                     {
+                        "title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "Arabic Character Recognition: Progress and Challenges",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ],
+                        "secondary-title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "Journal of King Saud University - Computer and Information Sciences",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "periodical": [
+                     {
+                        "full-title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "Journal of King Saud University - Computer and Information Sciences",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "pages": [
+                     {
+                        "style": [
+                           {
+                              "_": "85-116",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "volume": [
+                     {
+                        "style": [
+                           {
+                              "_": "12",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "number": [
+                     {
+                        "style": [
+                           {
+                              "_": "0",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "keywords": [
+                     {
+                        "keyword": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "Character recognition",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           },
+                           {
+                              "style": [
+                                 {
+                                    "_": "Arabic language",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           },
+                           {
+                              "style": [
+                                 {
+                                    "_": "Arabic character recognition",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           },
+                           {
+                              "style": [
+                                 {
+                                    "_": "Arabic text recognition",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           },
+                           {
+                              "style": [
+                                 {
+                                    "_": "Digital document processing",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           },
+                           {
+                              "style": [
+                                 {
+                                    "_": "Pattern recognition",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "dates": [
+                     {
+                        "year": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "2000",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ],
+                        "pub-dates": [
+                           {
+                              "date": [
+                                 {
+                                    "style": [
+                                       {
+                                          "_": "//",
+                                          "$": {
+                                             "face": "normal",
+                                             "font": "default",
+                                             "size": "100%"
+                                          }
+                                       }
+                                    ]
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "isbn": [
+                     {
+                        "style": [
+                           {
+                              "_": "1319-1578",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "abstract": [
+                     {
+                        "style": [
+                           {
+                              "_": "An optical character recognition (OCR) system may provide a solution to the data entry problems, a bottleneck for the data processing industry. Therefore, OCR systems are being developed for almost all major languages and Arabic language is no exception to it. During the past three decades, considerable research and development works have been done towards the development of an efficient Arabic optical character recognition (ACR) system. In this paper we present a comprehensive review of ACR techniques and evaluate the status of the ACR system development and an up to date bibliography.",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "urls": [
+                     {
+                        "related-urls": [
+                           {
+                              "url": [
+                                 {
+                                    "style": [
+                                       {
+                                          "_": "http://www.sciencedirect.com/science/article/pii/S131915780080004X",
+                                          "$": {
+                                             "face": "normal",
+                                             "font": "default",
+                                             "size": "100%"
+                                          }
+                                       }
+                                    ]
+                                 }
+                              ]
+                           }
+                        ],
+                        "pdf-urls": [
+                           {
+                              "url": [
+                                 "internal-pdf://3516840267/Ahmed_2000_Journal-of-King-Saud-University-Computer-and-Information-Sciences.pdf"
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "custom7": [
+                     {
+                        "style": [
+                           {
+                              "_": " [ara]",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "electronic-resource-num": [
+                     {
+                        "style": [
+                           {
+                              "_": "http://dx.doi.org/10.1016/S1319-1578(00)80004-X",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "database": [
+                     {
+                        "_": "Hugh's Linguistics Lib for ical 11 updated.enl",
+                        "$": {
+                           "name": "Hugh's Linguistics Lib for ical 11 updated.enl",
+                           "path": "/Users/Hugh/Hugh's Linguistics Lib for ical 11 updated.enl"
+                        }
+                     }
+                  ],
+                  "source-app": [
+                     {
+                        "_": "EndNote",
+                        "$": {
+                           "name": "EndNote",
+                           "version": "18.2"
+                        }
+                     }
+                  ],
+                  "rec-number": [
+                     "2375"
+                  ],
+                  "foreign-keys": [
+                     {
+                        "key": [
+                           {
+                              "_": "2375",
+                              "$": {
+                                 "app": "EN",
+                                 "db-id": "r2tarz0emwrxt2efrz2pxre8ffvvxeexxas0"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "ref-type": [
+                     {
+                        "_": "5",
+                        "$": {
+                           "name": "Book Section"
+                        }
+                     }
+                  ],
+                  "contributors": [
+                     {
+                        "authors": [
+                           {
+                              "author": [
+                                 {
+                                    "style": [
+                                       {
+                                          "_": "Rensch, Calvin Ross",
+                                          "$": {
+                                             "face": "normal",
+                                             "font": "default",
+                                             "size": "100%"
+                                          }
+                                       }
+                                    ]
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "titles": [
+                     {
+                        "title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "Typological and genetic considerations in the classification of the Otomanguean languages",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ],
+                        "secondary-title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "Actes du XLIIe Congrès International des Ameréicanistes, Congrès du Centenaire, Paris, 2-9 Septembre 1976",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "pages": [
+                     {
+                        "style": [
+                           {
+                              "_": "623-633",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "volume": [
+                     {
+                        "style": [
+                           {
+                              "_": "4",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "dates": [
+                     {
+                        "year": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "1978",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "pub-location": [
+                     {
+                        "style": [
+                           {
+                              "_": "Paris",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "publisher": [
+                     {
+                        "style": [
+                           {
+                              "_": "Fondation Singer-Polignac",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "notes": [
+                     {
+                        "style": [
+                           {
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "urls": [
+                     {
+                        "pdf-urls": [
+                           {
+                              "url": [
+                                 "internal-pdf://3172685898/Rensch-1978-Typological and genetic considerat.pdf"
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "custom7": [
+                     {
+                        "style": [
+                           {
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "remote-database-name": [
+                     {
+                        "style": [
+                           {
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "language": [
+                     {
+                        "style": [
+                           {
+                              "_": "English",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "database": [
+                     {
+                        "_": "Hugh's Linguistics Lib for ical 11 updated.enl",
+                        "$": {
+                           "name": "Hugh's Linguistics Lib for ical 11 updated.enl",
+                           "path": "/Users/Hugh/Hugh's Linguistics Lib for ical 11 updated.enl"
+                        }
+                     }
+                  ],
+                  "source-app": [
+                     {
+                        "_": "EndNote",
+                        "$": {
+                           "name": "EndNote",
+                           "version": "18.2"
+                        }
+                     }
+                  ],
+                  "rec-number": [
+                     "8704"
+                  ],
+                  "foreign-keys": [
+                     {
+                        "key": [
+                           {
+                              "_": "8704",
+                              "$": {
+                                 "app": "EN",
+                                 "db-id": "r2tarz0emwrxt2efrz2pxre8ffvvxeexxas0"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "ref-type": [
+                     {
+                        "_": "17",
+                        "$": {
+                           "name": "Journal Article"
+                        }
+                     }
+                  ],
+                  "contributors": [
+                     {
+                        "authors": [
+                           {
+                              "author": [
+                                 {
+                                    "style": [
+                                       {
+                                          "_": "章婷",
+                                          "$": {
+                                             "face": "normal",
+                                             "font": "default",
+                                             "size": "100%"
+                                          }
+                                       }
+                                    ]
+                                 },
+                                 {
+                                    "style": [
+                                       {
+                                          "_": "朱晓农",
+                                          "$": {
+                                             "face": "normal",
+                                             "font": "default",
+                                             "size": "100%"
+                                          }
+                                       }
+                                    ]
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "titles": [
+                     {
+                        "title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "苏北连云港方言的三域声调系统——普通发声态与张声、嘎裂声 A triple-register tonal system: The case of Lianyungang",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ],
+                        "secondary-title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "Dialect",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ],
+                        "translated-title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "A triple-register tonal system: The case of Lianyungang",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "periodical": [
+                     {
+                        "full-title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "Dialect",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "pages": [
+                     {
+                        "style": [
+                           {
+                              "_": "193-199",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "volume": [
+                     {
+                        "style": [
+                           {
+                              "_": "2012",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "number": [
+                     {
+                        "style": [
+                           {
+                              "_": "3",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "dates": [
+                     {
+                        "year": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "2012",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "urls": [
+                     {
+                        "related-urls": [
+                           {
+                              "url": [
+                                 {
+                                    "style": [
+                                       {
+                                          "_": "http://repository.ust.hk/ir/Record/1783.1-56031",
+                                          "$": {
+                                             "face": "normal",
+                                             "font": "default",
+                                             "size": "100%"
+                                          }
+                                       }
+                                    ]
+                                 }
+                              ]
+                           }
+                        ],
+                        "pdf-urls": [
+                           {
+                              "url": [
+                                 "internal-pdf://4105231344/450660.pdf"
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "access-date": [
+                     {
+                        "style": [
+                           {
+                              "_": "05. January 2015",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "database": [
+                     {
+                        "_": "Hugh's Linguistics Lib for ical 11 updated.enl",
+                        "$": {
+                           "name": "Hugh's Linguistics Lib for ical 11 updated.enl",
+                           "path": "/Users/Hugh/Hugh's Linguistics Lib for ical 11 updated.enl"
+                        }
+                     }
+                  ],
+                  "source-app": [
+                     {
+                        "_": "EndNote",
+                        "$": {
+                           "name": "EndNote",
+                           "version": "18.2"
+                        }
+                     }
+                  ],
+                  "rec-number": [
+                     "8949"
+                  ],
+                  "foreign-keys": [
+                     {
+                        "key": [
+                           {
+                              "_": "8949",
+                              "$": {
+                                 "app": "EN",
+                                 "db-id": "r2tarz0emwrxt2efrz2pxre8ffvvxeexxas0"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "ref-type": [
+                     {
+                        "_": "17",
+                        "$": {
+                           "name": "Journal Article"
+                        }
+                     }
+                  ],
+                  "contributors": [
+                     {
+                        "authors": [
+                           {
+                              "author": [
+                                 {
+                                    "style": [
+                                       {
+                                          "_": " 赵元任",
+                                          "$": {
+                                             "face": "normal",
+                                             "font": "default",
+                                             "size": "100%"
+                                          }
+                                       }
+                                    ]
+                                 }
+                              ]
+                           }
+                        ],
+                        "translated-authors": [
+                           {
+                              "author": [
+                                 {
+                                    "style": [
+                                       {
+                                          "_": "YUEN REN CHAO",
+                                          "$": {
+                                             "face": "normal",
+                                             "font": "default",
+                                             "size": "100%"
+                                          }
+                                       }
+                                    ]
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "titles": [
+                     {
+                        "title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "一套标调的字母(英文)",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ],
+                        "secondary-title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "方言",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ],
+                        "alt-title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "方言",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ],
+                        "translated-title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "A SYSTEM OF “ TONE一LETTERS” in Fangyan(Dialect)",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "periodical": [
+                     {
+                        "full-title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "方言",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "alt-periodical": [
+                     {
+                        "full-title": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "方言",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "pages": [
+                     {
+                        "style": [
+                           {
+                              "_": "81-83",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "volume": [
+                     {
+                        "style": [
+                           {
+                              "_": "1980",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "number": [
+                     {
+                        "style": [
+                           {
+                              "_": "2",
+                              "$": {
+                                 "face": "normal",
+                                 "font": "default",
+                                 "size": "100%"
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "keywords": [
+                     {
+                        "keyword": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "letters； fellow； simplified； Roman； alone； convenience； printing； combine； attached； pitch；",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "dates": [
+                     {
+                        "year": [
+                           {
+                              "style": [
+                                 {
+                                    "_": "1980",
+                                    "$": {
+                                       "face": "normal",
+                                       "font": "default",
+                                       "size": "100%"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "urls": [
+                     {
+                        "pdf-urls": [
+                           {
+                              "url": [
+                                 "internal-pdf://1431419372/Ò»Ì×±êµ÷µÄ×ÖÄ¸_Ó¢ÎÄ_.pdf"
+                              ]
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+}

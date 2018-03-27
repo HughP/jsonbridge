@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <records>
+    <record>
+      <database name="Hugh&apos;s Linguistics Lib for ical 11 updated.enl" path="/Users/Hugh/Hugh&apos;s Linguistics Lib for ical 11 updated.enl">Hugh&apos;s Linguistics Lib for ical 11 updated.enl</database>
+      <source-app name="EndNote" version="18.2">EndNote</source-app>
+      <rec-number>7732</rec-number>
+      <foreign-keys>
+        <key app="EN" db-id="r2tarz0emwrxt2efrz2pxre8ffvvxeexxas0">7732</key>
+      </foreign-keys>
+      <ref-type name="Journal Article">17</ref-type>
+      <contributors>
+        <authors>
+          <author>
+            <style face="normal" font="default" size="100%">Ahmed, Pervez</style>
+          </author>
+          <author>
+            <style face="normal" font="default" size="100%">Al-Ohali, Yousef</style>
+          </author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>
+          <style face="normal" font="default" size="100%">Arabic Character Recognition: Progress and Challenges</style>
+        </title>
+        <secondary-title>
+          <style face="normal" font="default" size="100%">Journal of King Saud University - Computer and Information Sciences</style>
+        </secondary-title>
+      </titles>
+      <periodical>
+        <full-title>
+          <style face="normal" font="default" size="100%">Journal of King Saud University - Computer and Information Sciences</style>
+        </full-title>
+      </periodical>
+      <pages>
+        <style face="normal" font="default" size="100%">85-116</style>
+      </pages>
+      <volume>
+        <style face="normal" font="default" size="100%">12</style>
+      </volume>
+      <number>
+        <style face="normal" font="default" size="100%">0</style>
+      </number>
+      <keywords>
+        <keyword>
+          <style face="normal" font="default" size="100%">Character recognition</style>
+        </keyword>
+        <keyword>
+          <style face="normal" font="default" size="100%">Arabic language</style>
+        </keyword>
+        <keyword>
+          <style face="normal" font="default" size="100%">Arabic character recognition</style>
+        </keyword>
+        <keyword>
+          <style face="normal" font="default" size="100%">Arabic text recognition</style>
+        </keyword>
+        <keyword>
+          <style face="normal" font="default" size="100%">Digital document processing</style>
+        </keyword>
+        <keyword>
+          <style face="normal" font="default" size="100%">Pattern recognition</style>
+        </keyword>
+      </keywords>
+      <dates>
+        <year>
+          <style face="normal" font="default" size="100%">2000</style>
+        </year>
+        <pub-dates>
+          <date>
+            <style face="normal" font="default" size="100%">//</style>
+          </date>
+        </pub-dates>
+      </dates>
+      <isbn>
+        <style face="normal" font="default" size="100%">1319-1578</style>
+      </isbn>
+      <abstract>
+        <style face="normal" font="default" size="100%">An optical character recognition (OCR) system may provide a solution to the data entry problems, a bottleneck for the data processing industry. Therefore, OCR systems are being developed for almost all major languages and Arabic language is no exception to it. During the past three decades, considerable research and development works have been done towards the development of an efficient Arabic optical character recognition (ACR) system. In this paper we present a comprehensive review of ACR techniques and evaluate the status of the ACR system development and an up to date bibliography.</style>
+      </abstract>
+      <urls>
+        <related-urls>
+          <url>
+            <style face="normal" font="default" size="100%">http://www.sciencedirect.com/science/article/pii/S131915780080004X</style>
+          </url>
+        </related-urls>
+        <pdf-urls>
+          <url>internal-pdf://3516840267/Ahmed_2000_Journal-of-King-Saud-University-Computer-and-Information-Sciences.pdf</url>
+        </pdf-urls>
+      </urls>
+      <custom7>
+        <style face="normal" font="default" size="100%"> [ara]</style>
+      </custom7>
+      <electronic-resource-num>
+        <style face="normal" font="default" size="100%">http://dx.doi.org/10.1016/S1319-1578(00)80004-X</style>
+      </electronic-resource-num>
+    </record>
+    <record>
+      <database name="Hugh&apos;s Linguistics Lib for ical 11 updated.enl" path="/Users/Hugh/Hugh&apos;s Linguistics Lib for ical 11 updated.enl">Hugh&apos;s Linguistics Lib for ical 11 updated.enl</database>
+      <source-app name="EndNote" version="18.2">EndNote</source-app>
+      <rec-number>2375</rec-number>
+      <foreign-keys>
+        <key app="EN" db-id="r2tarz0emwrxt2efrz2pxre8ffvvxeexxas0">2375</key>
+      </foreign-keys>
+      <ref-type name="Book Section">5</ref-type>
+      <contributors>
+        <authors>
+          <author>
+            <style face="normal" font="default" size="100%">Rensch, Calvin Ross</style>
+          </author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>
+          <style face="normal" font="default" size="100%">Typological and genetic considerations in the classification of the Otomanguean languages</style>
+        </title>
+        <secondary-title>
+          <style face="normal" font="default" size="100%">Actes du XLIIe Congrès International des Ameréicanistes, Congrès du Centenaire, Paris, 2-9 Septembre 1976</style>
+        </secondary-title>
+      </titles>
+      <pages>
+        <style face="normal" font="default" size="100%">623-633</style>
+      </pages>
+      <volume>
+        <style face="normal" font="default" size="100%">4</style>
+      </volume>
+      <dates>
+        <year>
+          <style face="normal" font="default" size="100%">1978</style>
+        </year>
+      </dates>
+      <pub-location>
+        <style face="normal" font="default" size="100%">Paris</style>
+      </pub-location>
+      <publisher>
+        <style face="normal" font="default" size="100%">Fondation Singer-Polignac</style>
+      </publisher>
+      <notes>
+        <style face="normal" font="default" size="100%"></style>
+      </notes>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://3172685898/Rensch-1978-Typological and genetic considerat.pdf</url>
+        </pdf-urls>
+      </urls>
+      <custom7>
+        <style face="normal" font="default" size="100%"></style>
+      </custom7>
+      <remote-database-name>
+        <style face="normal" font="default" size="100%"></style>
+      </remote-database-name>
+      <language>
+        <style face="normal" font="default" size="100%">English</style>
+      </language>
+    </record>
+    <record>
+      <database name="Hugh&apos;s Linguistics Lib for ical 11 updated.enl" path="/Users/Hugh/Hugh&apos;s Linguistics Lib for ical 11 updated.enl">Hugh&apos;s Linguistics Lib for ical 11 updated.enl</database>
+      <source-app name="EndNote" version="18.2">EndNote</source-app>
+      <rec-number>8704</rec-number>
+      <foreign-keys>
+        <key app="EN" db-id="r2tarz0emwrxt2efrz2pxre8ffvvxeexxas0">8704</key>
+      </foreign-keys>
+      <ref-type name="Journal Article">17</ref-type>
+      <contributors>
+        <authors>
+          <author>
+            <style face="normal" font="default" size="100%">章婷</style>
+          </author>
+          <author>
+            <style face="normal" font="default" size="100%">朱晓农</style>
+          </author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>
+          <style face="normal" font="default" size="100%">苏北连云港方言的三域声调系统——普通发声态与张声、嘎裂声 A triple-register tonal system: The case of Lianyungang</style>
+        </title>
+        <secondary-title>
+          <style face="normal" font="default" size="100%">Dialect</style>
+        </secondary-title>
+        <translated-title>
+          <style face="normal" font="default" size="100%">A triple-register tonal system: The case of Lianyungang</style>
+        </translated-title>
+      </titles>
+      <periodical>
+        <full-title>
+          <style face="normal" font="default" size="100%">Dialect</style>
+        </full-title>
+      </periodical>
+      <pages>
+        <style face="normal" font="default" size="100%">193-199</style>
+      </pages>
+      <volume>
+        <style face="normal" font="default" size="100%">2012</style>
+      </volume>
+      <number>
+        <style face="normal" font="default" size="100%">3</style>
+      </number>
+      <dates>
+        <year>
+          <style face="normal" font="default" size="100%">2012</style>
+        </year>
+      </dates>
+      <urls>
+        <related-urls>
+          <url>
+            <style face="normal" font="default" size="100%">http://repository.ust.hk/ir/Record/1783.1-56031</style>
+          </url>
+        </related-urls>
+        <pdf-urls>
+          <url>internal-pdf://4105231344/450660.pdf</url>
+        </pdf-urls>
+      </urls>
+      <access-date>
+        <style face="normal" font="default" size="100%">05. January 2015</style>
+      </access-date>
+    </record>
+    <record>
+      <database name="Hugh&apos;s Linguistics Lib for ical 11 updated.enl" path="/Users/Hugh/Hugh&apos;s Linguistics Lib for ical 11 updated.enl">Hugh&apos;s Linguistics Lib for ical 11 updated.enl</database>
+      <source-app name="EndNote" version="18.2">EndNote</source-app>
+      <rec-number>8949</rec-number>
+      <foreign-keys>
+        <key app="EN" db-id="r2tarz0emwrxt2efrz2pxre8ffvvxeexxas0">8949</key>
+      </foreign-keys>
+      <ref-type name="Journal Article">17</ref-type>
+      <contributors>
+        <authors>
+          <author>
+            <style face="normal" font="default" size="100%"> 赵元任</style>
+          </author>
+        </authors>
+        <translated-authors>
+          <author>
+            <style face="normal" font="default" size="100%">YUEN REN CHAO</style>
+          </author>
+        </translated-authors>
+      </contributors>
+      <titles>
+        <title>
+          <style face="normal" font="default" size="100%">一套标调的字母(英文)</style>
+        </title>
+        <secondary-title>
+          <style face="normal" font="default" size="100%">方言</style>
+        </secondary-title>
+        <alt-title>
+          <style face="normal" font="default" size="100%">方言</style>
+        </alt-title>
+        <translated-title>
+          <style face="normal" font="default" size="100%">A SYSTEM OF “ TONE一LETTERS” in Fangyan(Dialect)</style>
+        </translated-title>
+      </titles>
+      <periodical>
+        <full-title>
+          <style face="normal" font="default" size="100%">方言</style>
+        </full-title>
+      </periodical>
+      <alt-periodical>
+        <full-title>
+          <style face="normal" font="default" size="100%">方言</style>
+        </full-title>
+      </alt-periodical>
+      <pages>
+        <style face="normal" font="default" size="100%">81-83</style>
+      </pages>
+      <volume>
+        <style face="normal" font="default" size="100%">1980</style>
+      </volume>
+      <number>
+        <style face="normal" font="default" size="100%">2</style>
+      </number>
+      <keywords>
+        <keyword>
+          <style face="normal" font="default" size="100%">letters； fellow； simplified； Roman； alone； convenience； printing； combine； attached； pitch；</style>
+        </keyword>
+      </keywords>
+      <dates>
+        <year>
+          <style face="normal" font="default" size="100%">1980</style>
+        </year>
+      </dates>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://1431419372/Ò»Ì×±êµ÷µÄ×ÖÄ¸_Ó¢ÎÄ_.pdf</url>
+        </pdf-urls>
+      </urls>
+    </record>
+  </records>
+</xml>
